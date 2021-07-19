@@ -1,5 +1,3 @@
-"use strict";
-
 const articleRepository = require("./repository/article");
 
 const createArticle = async (event) => {
